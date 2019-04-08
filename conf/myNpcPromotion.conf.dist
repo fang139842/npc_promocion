@@ -5,4 +5,4 @@
 # default: false
 #
 
-MyCustom.enableHelloWorld=false
+npcPromotion.enableHelloWorld=true

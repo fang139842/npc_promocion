@@ -17,12 +17,12 @@ To disable PCH, follow this [link](https://github.com/azerothcore/azerothcore-wo
 
 # PART 2 - EXAMPLE OF A README.md
 
-# MY NEW MODULE (title)
+# NPC PROMOTION
 
 
 ## Description
 
-This module allows to do this and this.
+This module serves to give a series of promotions to players who visit our server.
 
 
 ## How to use ingame
@@ -57,8 +57,6 @@ If you need to change the module configuration, go to your server configuration 
 
 ## Credits
 
-* [Me](https://github.com/YOUR_GITHUB_NAME) (author of the module): Check out my soundcloud - Join my discord
-* [BarbzYHOOL](https://github.com/barbzyhool): best guy <!-- you can remove this small joke or modify it, but if you let the names, we get notified when a new module is made, which is quite cool) -->
-* [Talamortis](https://github.com/talamortis): almost best guy <!-- you can remove this small joke or modify it, but if you let the names, we get notified when a new module is made, which is quite cool) -->
+* [Me](https://github.com/pangolp) (author of the module)
 
 AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
