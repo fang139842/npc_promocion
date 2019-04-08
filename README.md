@@ -1,33 +1,19 @@
-# PART 1 - How to create your own module
-
-[ THIS README IS A WORK IN PROGRESS ]
+# NPC PROMOCIÓN
 
 
-You can use these scripts to start your project:
+## Descripción
 
-https://github.com/azerothcore/azerothcore-boilerplates
-
-### How to test your module?
-
-Disable PCH (precompiled headers) and try to compile. If you forgot some headers, it is time to add them !
-To disable PCH, follow this [link](https://github.com/azerothcore/azerothcore-wotlk/wiki/CMake-options) and set `USE_COREPCH ` to 0 with Cmake.
+Este modulo, le permite al servidor, ofrecer una serie de promociones las cuales están configuradas dentro del modulo. Por el momento, tenemos disponible.
 
 
--------------------------------------------------------
+* Promoción de leveo
+```
+La cual consiste en otorgarle al dueño de la cuenta, la posibilidad de tener todos los items de leveo.
+```
 
-# PART 2 - EXAMPLE OF A README.md
+## ¿Cómo funciona?
 
-# NPC PROMOTION
-
-
-## Description
-
-This module serves to give a series of promotions to players who visit our server.
-
-
-## How to use ingame
-
-Do this and that.
+Debes dirigirte a las zonas de inicio, donde esta creado el correspondiente npc y al hablarle, el mismo te dará una serie de opciones.
 
 ![my new module screenshot](/screenshots/my_module.png?raw=true "my new module screenshot")
 
